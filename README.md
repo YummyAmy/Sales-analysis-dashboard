@@ -1,4 +1,5 @@
 # Sales-analysis-dashboard
+
 A sample dashboard created on tableau desktop to view sales metric for a superstore
 It indicates the following:
 The state with the highest profit metric
