@@ -13,4 +13,4 @@ A sample dashboard created on Tableau desktop to view sales metric for a superst
 - https://public.tableau.com/app/profile/amyu/viz/SuperstoreDashboard_16905053611700/Dashboard1
 
 📁**Files:**
-- 
+- https://github.com/YummyAmy/Sales-analysis-dashboard/raw/main/SampleSuperstore(AutoRecovered).xlsx
