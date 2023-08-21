@@ -7,3 +7,10 @@ A sample dashboard created on Tableau desktop to view sales metric for a superst
 3. Total profit of each category of product
 4. A **tooltip** feature to showcase more information on total sales and profit for each category
 5. Filter options to filter on different metrics (category, subcategory etc)
+
+
+**Links:**
+- https://public.tableau.com/app/profile/amyu/viz/SuperstoreDashboard_16905053611700/Dashboard1
+
+**Files:**
+- 
