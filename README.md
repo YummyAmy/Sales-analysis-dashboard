@@ -1,4 +1,4 @@
-# Sales-analysis-dashboard
+# Sales analysis dashboard
 A _**quick**_ project to show a dashboard created on Tableau desktop to view sales metric for a superstore
 
  It indicates the following:
@@ -12,5 +12,5 @@ A _**quick**_ project to show a dashboard created on Tableau desktop to view sal
 🔗**Links:**
 - [Tableau Dashboard](https://public.tableau.com/app/profile/amyu/viz/SuperstoreDashboard_16905053611700/Dashboard1)
 
-📁**Files:**
+📁 **Files**
 - [SampleSuperstoredataset](SampleSuperstore(AutoRecovered).xlsx) is the dataset used for the analysis.
