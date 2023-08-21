@@ -1,5 +1,5 @@
 # Sales-analysis-dashboard
-A sample dashboard created on Tableau desktop to view sales metric for a superstore
+A _**quick**_ project to show a dashboard created on Tableau desktop to view sales metric for a superstore
 
  It indicates the following:
 1. The state with the highest profit metric
@@ -10,7 +10,7 @@ A sample dashboard created on Tableau desktop to view sales metric for a superst
 
 
 🔗**Links:**
-- https://public.tableau.com/app/profile/amyu/viz/SuperstoreDashboard_16905053611700/Dashboard1
+- [Tableau Dashboard](https://public.tableau.com/app/profile/amyu/viz/SuperstoreDashboard_16905053611700/Dashboard1)
 
 📁**Files:**
-- https://github.com/YummyAmy/Sales-analysis-dashboard/raw/main/SampleSuperstore(AutoRecovered).xlsx
+- [SampleSuperstoredataset](SampleSuperstore(AutoRecovered).xlsx) is the dataset used for the analysis.
