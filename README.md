@@ -9,8 +9,8 @@ A sample dashboard created on Tableau desktop to view sales metric for a superst
 5. Filter options to filter on different metrics (category, subcategory etc)
 
 
-**Links:**
+🔗**Links:**
 - https://public.tableau.com/app/profile/amyu/viz/SuperstoreDashboard_16905053611700/Dashboard1
 
-**Files:**
+📁**Files:**
 - 
