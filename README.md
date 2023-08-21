@@ -8,9 +8,8 @@ A _**quick**_ project to show a dashboard created on Tableau desktop to view sal
 4. A **tooltip** feature to showcase more information on total sales and profit for each category
 5. Filter options to filter on different metrics (category, subcategory etc)
 
+### 🔗 **Link**
+- [Tableau Dashboard](https://public.tableau.com/app/profile/amyu/viz/SuperstoreDashboard_16905053611700/Dashboard1) is the link to the dashboard.
 
-🔗**Links:**
-- [Tableau Dashboard](https://public.tableau.com/app/profile/amyu/viz/SuperstoreDashboard_16905053611700/Dashboard1)
-
-📁 **Files**
+### 📁 **Files**
 - [SampleSuperstoredataset](SampleSuperstore(AutoRecovered).xlsx) is the dataset used for the analysis.
